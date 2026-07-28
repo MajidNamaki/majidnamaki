@@ -1,0 +1,264 @@
+{
+  "settings": {
+    "seo_description": "Majid Namaki Nooshabadi — Senior Brand Strategist and Senior Performance Marketing Strategist.",
+    "hero_image": "media/hero-majid.jpg",
+    "email": "hello@example.com"
+  },
+  "texts": {
+    "text_001": {
+      "en": "Home",
+      "de": "Start",
+      "fa": "خانه"
+    },
+    "text_002": {
+      "en": "About",
+      "de": "Über mich",
+      "fa": "درباره من"
+    },
+    "text_003": {
+      "en": "Services",
+      "de": "Leistungen",
+      "fa": "خدمات"
+    },
+    "text_004": {
+      "en": "Case Studies",
+      "de": "Fallstudien",
+      "fa": "مطالعات موردی"
+    },
+    "text_005": {
+      "en": "Speaking",
+      "de": "Vorträge",
+      "fa": "سخنرانی"
+    },
+    "text_006": {
+      "en": "Contact",
+      "de": "Kontakt",
+      "fa": "تماس"
+    },
+    "text_007": {
+      "en": "Home",
+      "de": "Start",
+      "fa": "خانه"
+    },
+    "text_008": {
+      "en": "About",
+      "de": "Über mich",
+      "fa": "درباره من"
+    },
+    "text_009": {
+      "en": "Services",
+      "de": "Leistungen",
+      "fa": "خدمات"
+    },
+    "text_010": {
+      "en": "Case Studies",
+      "de": "Fallstudien",
+      "fa": "مطالعات موردی"
+    },
+    "text_011": {
+      "en": "Speaking",
+      "de": "Vorträge",
+      "fa": "سخنرانی"
+    },
+    "text_012": {
+      "en": "Contact",
+      "de": "Kontakt",
+      "fa": "تماس"
+    },
+    "text_013": {
+      "en": "Brand Strategist • AI-Powered Performance Marketing Strategist • Strategic Advertising Campaign Leader",
+      "de": "Markenstratege • Stratege für KI-gestütztes Performance Marketing • Leiter strategischer Werbekampagnen",
+      "fa": "استراتژیست برند • استراتژیست پرفورمنس مارکتینگ مبتنی بر هوش مصنوعی (AI) • راهبر کمپین‌های تبلیغاتی استراتژیک"
+    },
+    "text_014": {
+      "en": "Strategy. Growth. Brand.",
+      "de": "Strategie. Wachstum. Marke.",
+      "fa": "استراتژی. رشد. برند."
+    },
+    "text_015": {
+      "en": "Empowering innovative businesses, brands, and startups to create competitive advantage and achieve sustainable growth through effective branding strategies and tactics, AI-powered performance marketing, strategic advertising campaign leadership, data-driven decision-making, advertising effectiveness measurement (Ad Effectiveness), and continuous ROI optimization.",
+      "de": "Ich befähige innovative Unternehmen, Marken und Start-ups, Wettbewerbsvorteile und nachhaltiges Wachstum durch wirksame Branding-Strategien, KI-gestütztes Performance Marketing, strategische Werbekampagnen, datenbasierte Entscheidungen, Messung der Werbewirkung (Ad Effectiveness) und kontinuierliche ROI-Optimierung zu erreichen.",
+      "fa": "توانمندسازی کسب‌وکارها، برندها و استارتاپ‌های نوآور برای خلق مزیت رقابتی و دستیابی به رشد پایدار از طریق استراتژی و تاکتیک‌های اثربخش برندینگ، پرفورمنس مارکتینگ مبتنی بر هوش مصنوعی (AI)، راهبری کمپین‌های تبلیغاتی استراتژیک، تصمیم‌گیری داده‌محور، سنجش اثربخشی تبلیغات (Ad Effectiveness) و بهینه‌سازی مستمر بازگشت سرمایه (ROI)."
+    },
+    "text_016": {
+      "en": "Work With Me →",
+      "de": "Mit mir arbeiten →",
+      "fa": "شروع همکاری ←"
+    },
+    "text_017": {
+      "en": "Explore My Expertise",
+      "de": "Expertise entdecken",
+      "fa": "مشاهده تخصص‌ها"
+    },
+    "text_018": {
+      "en": "Scroll to explore ↓",
+      "de": "Mehr entdecken ↓",
+      "fa": "برای مشاهده بیشتر اسکرول کنید ↓"
+    },
+    "text_019": {
+      "en": "Years of experience",
+      "de": "Jahre Erfahrung",
+      "fa": "سال تجربه"
+    },
+    "text_020": {
+      "en": "Brands advised",
+      "de": "Beratene Marken",
+      "fa": "برند مشاوره‌شده"
+    },
+    "text_021": {
+      "en": "Strategic projects",
+      "de": "Strategische Projekte",
+      "fa": "پروژه استراتژیک"
+    },
+    "text_022": {
+      "en": "Speaking engagements",
+      "de": "Vorträge",
+      "fa": "سخنرانی"
+    },
+    "text_023": {
+      "en": "What I Do",
+      "de": "Was ich tue",
+      "fa": "حوزه‌های فعالیت"
+    },
+    "text_024": {
+      "en": "I turn strategy into impact and insight into growth.",
+      "de": "Ich verwandle Strategie in Wirkung und Erkenntnisse in Wachstum.",
+      "fa": "استراتژی را به اثرگذاری و بینش را به رشد تبدیل می‌کنم."
+    },
+    "text_025": {
+      "en": "I partner with B2B, B2C and retail brands to solve complex growth challenges and build lasting competitive advantage.",
+      "de": "Ich arbeite mit B2B-, B2C- und Handelsmarken zusammen, um komplexe Wachstumsfragen zu lösen und nachhaltige Wettbewerbsvorteile zu schaffen.",
+      "fa": "با برندهای B2B، B2C و خرده‌فروشی همکاری می‌کنم تا چالش‌های پیچیده رشد را حل کرده و مزیت رقابتی پایدار بسازیم."
+    },
+    "text_026": {
+      "en": "Brand Strategy",
+      "de": "Markenstrategie",
+      "fa": "استراتژی برند"
+    },
+    "text_027": {
+      "en": "Positioning, messaging and differentiation strategies that make brands stronger and more relevant.",
+      "de": "Positionierung, Botschaften und Differenzierung für starke und relevante Marken.",
+      "fa": "جایگاه‌سازی، پیام برند و تمایز برای ساخت برندهای قدرتمند و مرتبط."
+    },
+    "text_028": {
+      "en": "Performance Marketing",
+      "de": "Performance Marketing",
+      "fa": "بازاریابی عملکردی"
+    },
+    "text_029": {
+      "en": "Data-driven growth systems designed for efficiency, acquisition and measurable results.",
+      "de": "Datenbasierte Wachstumssysteme für Effizienz, Kundengewinnung und messbare Ergebnisse.",
+      "fa": "سیستم‌های رشد داده‌محور برای افزایش بهره‌وری، جذب مشتری و نتایج قابل‌اندازه‌گیری."
+    },
+    "text_030": {
+      "en": "Growth Consulting",
+      "de": "Wachstumsberatung",
+      "fa": "مشاوره رشد"
+    },
+    "text_031": {
+      "en": "Strategic guidance for leaders facing growth, transformation and expansion challenges.",
+      "de": "Strategische Begleitung bei Wachstum, Transformation und Marktexpansion.",
+      "fa": "راهنمایی استراتژیک برای مدیران در مسیر رشد، تحول و توسعه بازار."
+    },
+    "text_032": {
+      "en": "AI & Data Strategy",
+      "de": "KI- & Datenstrategie",
+      "fa": "استراتژی هوش مصنوعی و داده"
+    },
+    "text_033": {
+      "en": "Practical AI and analytics frameworks for smarter decisions and future-ready brands.",
+      "de": "Praktische KI- und Analysemodelle für bessere Entscheidungen und zukunftsfähige Marken.",
+      "fa": "چارچوب‌های کاربردی هوش مصنوعی و تحلیل داده برای تصمیم‌های هوشمندانه‌تر."
+    },
+    "text_034": {
+      "en": "About Majid",
+      "de": "Über Majid",
+      "fa": "درباره مجید"
+    },
+    "text_035": {
+      "en": "A strategist focused on clarity, growth and meaningful impact.",
+      "de": "Ein Stratege mit Fokus auf Klarheit, Wachstum und nachhaltige Wirkung.",
+      "fa": "استراتژیستی متمرکز بر شفافیت، رشد و اثرگذاری معنادار."
+    },
+    "text_036": {
+      "en": "Majid Namaki Nooshabadi works at the intersection of brand strategy, performance marketing, business growth and AI.",
+      "de": "Majid Namaki Nooshabadi arbeitet an der Schnittstelle von Markenstrategie, Performance Marketing, Unternehmenswachstum und KI.",
+      "fa": "مجید نمکی نوش‌آبادی در نقطه تلاقی استراتژی برند، بازاریابی عملکردی، رشد کسب‌وکار و هوش مصنوعی فعالیت می‌کند."
+    },
+    "text_037": {
+      "en": "Executive consulting and strategic advisory",
+      "de": "Executive Consulting und strategische Beratung",
+      "fa": "مشاوره مدیران و راهبری استراتژیک"
+    },
+    "text_038": {
+      "en": "Brand positioning and growth architecture",
+      "de": "Markenpositionierung und Wachstumsarchitektur",
+      "fa": "جایگاه‌سازی برند و معماری رشد"
+    },
+    "text_039": {
+      "en": "Performance marketing transformation",
+      "de": "Transformation des Performance Marketings",
+      "fa": "تحول بازاریابی عملکردی"
+    },
+    "text_040": {
+      "en": "Keynotes, workshops and leadership sessions",
+      "de": "Keynotes, Workshops und Leadership Sessions",
+      "fa": "سخنرانی، کارگاه و جلسات مدیریتی"
+    },
+    "text_041": {
+      "en": "Selected Work",
+      "de": "Ausgewählte Arbeit",
+      "fa": "نمونه فعالیت‌ها"
+    },
+    "text_042": {
+      "en": "Case studies coming soon.",
+      "de": "Fallstudien folgen in Kürze.",
+      "fa": "مطالعات موردی به‌زودی منتشر می‌شوند."
+    },
+    "text_043": {
+      "en": "This section is ready for your real projects, results and client stories.",
+      "de": "Dieser Bereich ist für reale Projekte, Ergebnisse und Kundengeschichten vorbereitet.",
+      "fa": "این بخش برای پروژه‌های واقعی، نتایج و داستان‌های مشتریان آماده شده است."
+    },
+    "text_044": {
+      "en": "Speaking",
+      "de": "Vorträge",
+      "fa": "سخنرانی"
+    },
+    "text_045": {
+      "en": "Ideas that move leaders and organizations forward.",
+      "de": "Impulse, die Führungskräfte und Organisationen voranbringen.",
+      "fa": "ایده‌هایی که مدیران و سازمان‌ها را به جلو حرکت می‌دهند."
+    },
+    "text_046": {
+      "en": "Available for keynotes, executive workshops and strategic sessions on branding, growth, performance marketing and AI.",
+      "de": "Verfügbar für Keynotes, Executive Workshops und strategische Sessions zu Branding, Wachstum, Performance Marketing und KI.",
+      "fa": "آماده همکاری برای سخنرانی، کارگاه مدیران و جلسات استراتژیک در زمینه برند، رشد، بازاریابی عملکردی و هوش مصنوعی."
+    },
+    "text_047": {
+      "en": "Let’s Work Together",
+      "de": "Zusammenarbeiten",
+      "fa": "شروع همکاری"
+    },
+    "text_048": {
+      "en": "Ready to create meaningful growth?",
+      "de": "Bereit für nachhaltiges Wachstum?",
+      "fa": "آماده ساختن رشدی معنادار هستید؟"
+    },
+    "text_049": {
+      "en": "Replace the temporary email below with your professional address.",
+      "de": "Ersetzen Sie die vorläufige E-Mail-Adresse unten durch Ihre professionelle Adresse.",
+      "fa": "ایمیل موقت زیر را با آدرس حرفه‌ای خودتان جایگزین کنید."
+    },
+    "text_050": {
+      "en": "Contact Me →",
+      "de": "Kontakt aufnehmen →",
+      "fa": "تماس با من ←"
+    },
+    "text_051": {
+      "en": "Strategy · Growth · Brand",
+      "de": "Strategie · Wachstum · Marke",
+      "fa": "استراتژی · رشد · برند"
+    }
+  }
+}
